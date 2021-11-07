@@ -1,5 +1,6 @@
 # Learn-OpenGL
 learn OpenGL
+# <a href="http://www.suchone.com/post/51.html">C++ std::cout在cmd输出中文乱码的解决方案</a>
 # <a href="https://www.cxyzjd.com/article/weixin_33750452/86197676">VS2010中使用QtOpenGL出现 unresolved external symbol __imp__glClear@4 referenced in function之类的错误.</>
 # <a href="https://blog.csdn.net/Septembre_/article/details/111320427">Visual Studio 2019 安装 Windows SDK 8.1</a>
 # <a href="http://www.devacg.com/?post=1019">编译GLTools源码</a>
