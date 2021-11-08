@@ -1,5 +1,6 @@
 # Learn-OpenGL
 learn OpenGL
+# <a href="https://blog.csdn.net/MASILEJFOAISEGJIAE/article/details/105712761">错误解决：error C2447: “{”: 缺少函数标题(是否是老式的形式表?)</a>
 # <a href="https://blog.csdn.net/LYJ_viviani/article/details/51487877">解决“错误 D8016 “/ZI”和“/Gy-”命令行选项不兼容 ”问题</a>
 # <a href="http://www.suchone.com/post/51.html">C++ std::cout在cmd输出中文乱码的解决方案</a>
 # <a href="https://www.cxyzjd.com/article/weixin_33750452/86197676">VS2010中使用QtOpenGL出现 unresolved external symbol __imp__glClear@4 referenced in function之类的错误.</>
