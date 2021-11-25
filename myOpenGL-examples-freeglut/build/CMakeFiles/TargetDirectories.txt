@@ -1,0 +1,2 @@
+H:/Projects/myOpenGL-examples-freeglut/build/CMakeFiles/myOpenglSamples.dir
+H:/Projects/myOpenGL-examples-freeglut/build/CMakeFiles/ALL_BUILD.dir
