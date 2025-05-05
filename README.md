@@ -1,5 +1,7 @@
 # Learn-OpenGL
 learn OpenGL
+# VS2022 编译 OpenGL编程指南第9版 (红宝书) 代码: https://blog.csdn.net/qq_25547755/article/details/134643272
+# VS2022 编译 OpenGL超级宝典 第7版 (蓝宝书) 代码: https://blog.csdn.net/qq_25547755/article/details/134644642
 # <a href="https://blog.csdn.net/MR1269427885/article/details/53283257">windows 64位 VS2015-2019 “模块计算机类型“x64”与目标计算机类型“X86”冲突解决方案</a>
 # <a href="https://blog.csdn.net/m0_37876745/article/details/78174057">ERROR LNK2019：无法解析的外部的符号 _sscanf或者_vsprintf</a>
 # <a href="https://www.cnblogs.com/kuliuheng/p/3397796.html">Visual Studio error C2001:常量中有换行符（解决办法）</a>
